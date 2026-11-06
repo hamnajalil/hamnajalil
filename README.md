@@ -43,6 +43,7 @@ side_quests:
 ### 🗺️ Explore
 | Quest | What it is |
 |---|---|
+| [ai-project-kit](https://github.com/hamnajalil/ai-project-kit) | Five documents and one routine that let any AI pick up your project cold |
 | [hamnajalil.com](https://github.com/hamnajalil/hamnajalil.github.io) | My RPG-themed interactive portfolio |
 | [Pizza-RAG-Chatbot](https://github.com/hamnajalil/Pizza-RAG-Chatbot) | 100% local RAG agent — n8n + Ollama + Qdrant |
 | [agile-final-project](https://github.com/hamnajalil/agile-final-project) | Backlog → sprint plan → mock sprint on a kanban board |
