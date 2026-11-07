@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Character sheet: class Technical Producer and Product Manager, level 6 plus years, guild Women in Games ambassador, base Lahore, main quest AI and Technology Lead.">
+  <defs>
+    <style>
+      .k{font-family:'Courier New',monospace;font-size:11px;letter-spacing:3px;fill:#80c898}
+      .v{font-family:Georgia,'Times New Roman',serif;font-size:19px;fill:#f4f0ff}
+      .n{font-family:Georgia,'Times New Roman',serif;font-size:13px;fill:#a894d2}
+      .bar{fill:#1c1828;stroke:#a894d2;stroke-opacity:.35}
+      .fill{fill:#c090e0}
+      @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+      .fill{transform-origin:left;animation:grow 1.8s cubic-bezier(.2,.8,.2,1) both}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="228" rx="16" fill="#221e32" stroke="#a894d2" stroke-opacity=".35"/>
+
+  <g transform="translate(40 44)">
+    <text class="k" y="0">CLASS</text>
+    <text class="v" y="26">Technical Producer / Product Manager</text>
+    <text class="n" y="46">AAA games · Web3 · live service · SaaS</text>
+
+    <text class="k" y="90">GUILD</text>
+    <text class="v" y="116">Women in Games, Ambassador</text>
+    <text class="n" y="136">Base: Lahore, Pakistan. Playing on global servers.</text>
+  </g>
+
+  <g transform="translate(520 44)">
+    <text class="k" y="0">MAIN QUEST</text>
+    <text class="v" y="26">AI &amp; Technology Lead</text>
+    <text class="n" y="46">Claude workflows, Jira Rovo agents, team SOPs</text>
+
+    <text class="k" y="90">LAST BOSS</text>
+    <text class="v" y="116">Skyborne: Phoenix Flight</text>
+    <text class="n" y="136">Production on an AAA MMORPG, PC / console / Web3</text>
+  </g>
+
+  <g transform="translate(900 44)">
+    <text class="k" y="0">STATS</text>
+    <g transform="translate(0 14)">
+      <text class="n" y="12">Production</text><rect class="bar" x="110" y="2" width="150" height="10" rx="5"/><rect class="fill" x="110" y="2" width="142" height="10" rx="5"/>
+      <text class="n" y="38">AI tooling</text><rect class="bar" x="110" y="28" width="150" height="10" rx="5"/><rect class="fill" x="110" y="28" width="128" height="10" rx="5" style="animation-delay:.15s"/>
+      <text class="n" y="64">Live ops</text><rect class="bar" x="110" y="54" width="150" height="10" rx="5"/><rect class="fill" x="110" y="54" width="120" height="10" rx="5" style="animation-delay:.3s"/>
+      <text class="n" y="90">Shipping</text><rect class="bar" x="110" y="80" width="150" height="10" rx="5"/><rect class="fill" x="110" y="80" width="146" height="10" rx="5" style="animation-delay:.45s"/>
+      <text class="n" y="116">Patience</text><rect class="bar" x="110" y="106" width="150" height="10" rx="5"/><rect class="fill" x="110" y="106" width="60" height="10" rx="5" style="animation-delay:.6s"/>
+    </g>
+  </g>
+</svg>
